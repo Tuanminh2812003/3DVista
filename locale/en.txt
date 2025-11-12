@@ -1,0 +1,155 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_7FD8E763_5F28_AF54_41D2_2DCD6110D604.source = https://baotangtinh.gialai.gov.vn/
+LinkBehaviour_5ADD62D6_32E5_3471_419E_92AB56B30307.source = https://baotangtinh.gialai.gov.vn/
+WebFrame_2D5EDD5D_3255_DCA6_41AF_438A40AECC0B.url = https://sketchfab.com/playlists/embed?collection=a7d0eadb58b2492b821a0fc496af1b1d&autostart=0
+LinkBehaviour_5ADD52D6_32E5_3471_4189_F165266E5F50.source = https://www.facebook.com/profile.php?id=100064850076936
+LinkBehaviour_40D95CB4_5F29_A133_41BB_3A75133EB250.source = https://www.facebook.com/profile.php?id=100064850076936
+WebFrame_7A54CCF7_5A08_3B12_41D5_2D086C98770F.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14894.96816050614!2d105.8364597!3d21.0430052!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135aba58b5921c3%3A0x31329cb3632aabef!2zxJDDqsyAbiBRdWHMgW4gVGhhzIFuaA!5e0!3m2!1svi!2s!4v1697015161508!5m2!1svi!2s
+WebFrame_26E4C6FA_32DD_1CB7_41C0_EB18B1EB50E6.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14894.96816050614!2d105.8364597!3d21.0430052!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135aba58b5921c3%3A0x31329cb3632aabef!2zxJDDqsyAbiBRdWHMgW4gVGhhzIFuaA!5e0!3m2!1svi!2s!4v1697015161508!5m2!1svi!2s
+WebFrame_176F3556_3255_2CA2_41AB_1126F9D81901.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14894.96816050614!2d105.8364597!3d21.0430052!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135aba58b5921c3%3A0x31329cb3632aabef!2zxJDDqsyAbiBRdWHMgW4gVGhhzIFuaA!5e0!3m2!1svi!2s!4v1697015161508!5m2!1svi!2s
+WebFrame_7A54CCF7_5A08_3B12_41D5_2D086C98770F_mobile.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14894.96816050614!2d105.8364597!3d21.0430052!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135aba58b5921c3%3A0x31329cb3632aabef!2zxJDDqsyAbiBRdWHMgW4gVGhhzIFuaA!5e0!3m2!1svi!2s!4v1697015161508!5m2!1svi!2s
+WebFrame_26E4C6FA_32DD_1CB7_41C0_EB18B1EB50E6_mobile.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14894.96816050614!2d105.8364597!3d21.0430052!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135aba58b5921c3%3A0x31329cb3632aabef!2zxJDDqsyAbiBRdWHMgW4gVGhhzIFuaA!5e0!3m2!1svi!2s!4v1697015161508!5m2!1svi!2s
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_501756E0_32DD_1C51_41C1_AD8EF7B1805E.toolTip = BIA DI TÍCH
+HotspotPanoramaOverlayArea_501CB7AA_32DB_3CD1_41B8_9011B6FA4E2C.toolTip = LÁN BÁC HỒ
+
+## Media
+
+### Audio
+audiores_4EA890F2_51D8_FC12_41CF_6260C6ED273D.mp3Url = media/audio_4C18FAF9_51D9_0C1F_41CB_E4E7F9C2D14F_en.mp3
+audiores_4E86D11A_51D7_1C1D_41BF_04FEF5AF3795.mp3Url = media/audio_4FBC9D09_51D9_05FE_41B4_364E0415CC98_en.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_2512A13B_2FE3_7EF7_41B0_60B7BBAC3462.label = BIA DI TÍCH
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_0.label = DJI_20250717102504_0005_D
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_1.label = DSC01269
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_2.label = DSC01281
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_3.label = DSC01316
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_4.label = DSC01319
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_5.label = DSC01326
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_6.label = DSC01335
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_7.label = DSC01341
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_8.label = DSC01412
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_9.label = DSC01419
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_10.label = DSC01421
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_11.label = DSC01444
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_12.label = DSC01459
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_13.label = DSC01468
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_14.label = DSC01472
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_15.label = DSC01500
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_16.label = DSC01532
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_17.label = DSC01554
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_18.label = DSC01563
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB_19.label = DSC01568
+panorama_250E2D3A_2FE0_A6F1_4196_307D01094F94.label = LÁN BÁC HỒ
+panorama_2511FD4D_2FE0_A693_4193_102E2A71B125.label = LÁN BÁC HỒ
+panorama_25131259_2FE3_A2B3_41B9_20D16A53622B.label = LỐI LÊN LÁN BÁC HỒ
+panorama_25119E0B_2FE0_E297_41C3_D0886F2DBA43.label = LỐI XUỐNG BẾP
+panorama_25112F3A_2FE0_E2F1_41BD_341EA27B88EF.label = NHÀ BẾP
+panorama_25115FC2_2FE0_A191_41C5_07FC40BF855F.label = NHÀ BẾP
+panorama_25131305_2FE3_A293_41BD_52B097C977C8.label = NHÀ ĐÓN TIẾP
+panorama_25101D49_2FE1_6693_41C3_A9A248A89AEC.label = PHÒNG LÀM VIỆC
+panorama_25140C4A_2FE1_6691_41C1_1C5C44DEEA00.label = PHÒNG NGỦ
+album_5505518D_32ED_14D3_41C2_AF60DDCC0BEB.label = Photo Album DJI_20250717102504_0005_D
+panorama_54175292_32DF_14F0_4191_FB25D4C2DF94.label = TOÀN CẢNH TRÊN CAO
+panorama_2513005C_2FE3_5EB2_41AC_809C2ED1AD10.label = ĐƯỜNG LÊN LÁN BÁC HỒ
+
+## Skin
+
+### Button
+Button_51D46D19_508B_F07D_41C3_3902C2837511_mobile.label = KHÁM PHÁ KHÔNG GIAN
+Button_469419A9_5F28_E3D4_41D5_95301CD9D7F9.label = KHÁM PHÁ KHÔNG GIAN
+Button_51D46D19_508B_F07D_41C3_3902C2837511.label = KHÁM PHÁ KHÔNG GIAN
+Button_469419A9_5F28_E3D4_41D5_95301CD9D7F9_mobile.label = KHÁM PHÁ KHÔNG GIAN
+
+### Image
+Image_1677074A_0053_9459_411A_127CC7A82410.url = skin/Image_1677074A_0053_9459_411A_127CC7A82410_en.png
+Image_1677074A_0053_9459_411A_127CC7A82410_mobile.url = skin/Image_1677074A_0053_9459_411A_127CC7A82410_mobile_en.png
+Image_254E9321_31BD_E484_41B6_B01477EECB1A.url = skin/Image_254E9321_31BD_E484_41B6_B01477EECB1A_en.png
+Image_254E9321_31BD_E484_41B6_B01477EECB1A_mobile.url = skin/Image_254E9321_31BD_E484_41B6_B01477EECB1A_mobile_en.png
+Image_28185679_324D_2D6E_41A2_1878888BE945.url = skin/Image_28185679_324D_2D6E_41A2_1878888BE945_en.png
+Image_28185679_324D_2D6E_41A2_1878888BE945_mobile.url = skin/Image_28185679_324D_2D6E_41A2_1878888BE945_mobile_en.png
+Image_2DCF07F9_1189_C748_4197_964377F8BADE.url = skin/Image_2DCF07F9_1189_C748_4197_964377F8BADE_en.png
+Image_2DCF07F9_1189_C748_4197_964377F8BADE_mobile.url = skin/Image_2DCF07F9_1189_C748_4197_964377F8BADE_mobile_en.png
+Image_51D46D0E_508B_F057_41B2_0FB38F125A21.url = skin/Image_51D46D0E_508B_F057_41B2_0FB38F125A21_en.png
+Image_51D46D0E_508B_F057_41B2_0FB38F125A21_mobile.url = skin/Image_51D46D0E_508B_F057_41B2_0FB38F125A21_mobile_en.png
+Image_C0F4A6F7_FE6D_E7CD_41E7_A016ADA32B25.url = skin/Image_C0F4A6F7_FE6D_E7CD_41E7_A016ADA32B25_en.png
+Image_C0F4A6F7_FE6D_E7CD_41E7_A016ADA32B25_mobile.url = skin/Image_C0F4A6F7_FE6D_E7CD_41E7_A016ADA32B25_mobile_en.png
+Image_C1C9F224_FEA7_3E43_41DB_2F2D23E46E61.url = skin/Image_C1C9F224_FEA7_3E43_41DB_2F2D23E46E61_en.png
+Image_C1C9F224_FEA7_3E43_41DB_2F2D23E46E61_mobile.url = skin/Image_C1C9F224_FEA7_3E43_41DB_2F2D23E46E61_mobile_en.png
+Image_DC82FDC6_F555_BC31_41DA_BB95B616D98C.url = skin/Image_DC82FDC6_F555_BC31_41DA_BB95B616D98C_en.png
+Image_DC82FDC6_F555_BC31_41DA_BB95B616D98C_mobile.url = skin/Image_DC82FDC6_F555_BC31_41DA_BB95B616D98C_mobile_en.png
+
+### Label
+Label_51D46D23_508B_F04D_41A8_80E0AC43B869.text = BẢO TÀNG TỈNH ĐẮK LẮK
+Label_51D46D23_508B_F04D_41A8_80E0AC43B869_mobile.text = BẢO TÀNG TỈNH ĐẮK LẮK
+Label_4771D867_5A08_1B4B_41C7_C7D55F675565.text = DI TÍCH LỊCH SỬ ĐỒI KHAU TÝ
+Label_4771D867_5A08_1B4B_41C7_C7D55F675565_mobile.text = DI TÍCH LỊCH SỬ ĐỒI KHAU TÝ
+Label_441E0102_5F28_A0D7_41C6_D348E1EC04A0_mobile.text = DI TÍCH LỊCH SỬ ĐỒI KHAU TÝ
+Label_441E0102_5F28_A0D7_41C6_D348E1EC04A0.text = DI TÍCH LỊCH SỬ ĐỒI KHAU TÝ
+Label_52ECB9A6_3A29_BBFA_41C6_10F5E22113EB.text = Di Tích Lịch Sử Đồi Khau Tý
+Label_45FBC5FD_5A08_1519_41B7_E07CB3B924DC_mobile.text = GIỚI THIỆU CHUNG
+Label_45FBC5FD_5A08_1519_41B7_E07CB3B924DC.text = GIỚI THIỆU CHUNG
+Label_E2D76482_FABD_336C_41E7_6B8DDBFBD90A.text = HIỆN VẬT
+Label_42C8DC48_5F18_E153_4181_65A85233B57A.text = KHÔNG GIAN SỐ 
+Label_42C8DC48_5F18_E153_4181_65A85233B57A_mobile.text = KHÔNG GIAN SỐ 
+Label_51D46D25_508B_F055_41D0_02A532A41C7D_mobile.text = KHÔNG GIAN THAM QUAN 3D
+Label_51D46D25_508B_F055_41D0_02A532A41C7D.text = KHÔNG GIAN THAM QUAN 3D
+Label_176E8557_3255_2CA2_41AB_A86F9936F4B0.text = SƠ ĐỒ THAM QUAN
+Label_51BB547C_50FD_D0BB_41CE_3531D0E05821.text = THƯ VIỆN HÌNH ẢNH
+Label_51BB547C_50FD_D0BB_41CE_3531D0E05821_mobile.text = THƯ VIỆN HÌNH ẢNH
+Label_26F5F6E8_32DD_1CD3_41A5_2AD6813C9225.text = VỊ TRÍ
+Label_17517555_3255_2CA6_41B0_B4864DFCBE94.text = VỊ TRÍ
+Label_4582EFD7_5A08_F513_4197_7E6C8EB3050C_mobile.text = VỊ TRÍ
+Label_4582EFD7_5A08_F513_4197_7E6C8EB3050C.text = VỊ TRÍ
+Label_26F5F6E8_32DD_1CD3_41A5_2AD6813C9225_mobile.text = VỊ TRÍ
+Label_51B5FC6D_50F4_D0D5_41AB_31BB9FBAAA64.text = VỊ TRÍ 
+Label_51B5FC6D_50F4_D0D5_41AB_31BB9FBAAA64_mobile.text = VỊ TRÍ 
+Label_07E64F5D_324D_DCA6_41B9_31E89559AC54.text = {{title}}
+Label_07E64F5D_324D_DCA6_41B9_31E89559AC54_mobile.text = {{title}}
+Label_26E5C6FC_32DD_1CB3_41B5_2300391BC6FE_mobile.text = ĐIỂM THAM QUAN
+Label_26E5C6FC_32DD_1CB3_41B5_2300391BC6FE.text = ĐIỂM THAM QUAN
+
+### Multiline Text
+HTMLText_45FE9604_5A08_16EF_41D2_747897FB4A21.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;text-indent:14.98px;padding-right:14.98px;font-size:1.3767209011264083vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffff99;font-size:1.38vw;font-family:'Maitree';text-indent:14.98px;"><B>Di Tích Lịch Sử Đồi Khau Tý</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.06vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.75vw;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;text-indent:14.98px;padding-right:14.98px;font-size:0.9375vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffffff;font-size:0.94vw;font-family:'Maitree';text-indent:14.98px;">Giữa núi rừng Việt Bắc, mảnh đất Định Hóa – Thái Nguyên đã trở thành An toàn khu của cách mạng Việt Nam trong những năm tháng kháng chiến chống thực dân Pháp. Trong hệ thống các di tích lịch sử tại đây, Khau Tý là một địa danh đặc biệt, ghi dấu ngày Bác Hồ chính thức trở lại Việt Bắc chỉ đạo toàn dân kháng chiến.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:14.98px;padding-right:14.98px;font-size:0.9375vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffffff;font-size:0.94vw;font-family:'Maitree';text-indent:14.98px;">Ngày 20 tháng 5 năm 1947, sau hành trình vượt qua muôn vàn hiểm nguy từ Hà Nội, Chủ tịch Hồ Chí Minh đã về tới đồi Khau Tý, xã Điềm Mặc, mở đầu cho giai đoạn lãnh đạo trực tiếp cuộc kháng chiến chống Pháp từ căn cứ địa. Đây là nơi ở và làm việc đầu tiên của Người tại ATK Định Hóa, đánh dấu bước ngoặt lớn của cách mạng Việt Nam trong thời kỳ kháng chiến trường kỳ.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:14.98px;padding-right:14.98px;font-size:0.9375vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffffff;font-size:0.94vw;font-family:'Maitree';text-indent:14.98px;">Tại căn lán nhỏ đơn sơ trên đồi Khau Tý, Bác Hồ đã làm việc không ngừng nghỉ: viết thư, ra chỉ thị, hiệu triệu toàn dân, xây dựng khối đại đoàn kết, cùng Trung ương Đảng hoạch định những chiến lược lớn cho toàn quốc kháng chiến. Mặc dù ở giữa rừng sâu núi thẳm, không điện, không đường, không phương tiện liên lạc hiện đại, nhưng nơi đây chính là trung tâm chỉ đạo cách mạng, là "bộ não" của cả dân tộc trong thời điểm cam go nhất.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:14.98px;padding-right:14.98px;font-size:0.9375vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffffff;font-size:0.94vw;font-family:'Maitree';text-indent:14.98px;">Gắn liền với những tháng ngày tại Khau Tý là hình ảnh âm thầm nhưng không thể thiếu của lực lượng Cảnh vệ – những người lính đặc biệt được giao nhiệm vụ bảo vệ tuyệt đối an toàn cho Bác Hồ và các cơ quan lãnh đạo đầu não.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:14.98px;padding-right:14.98px;font-size:0.9375vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffffff;font-size:0.94vw;font-family:'Maitree';text-indent:14.98px;">Trong bối cảnh chiến tranh khốc liệt, địch tăng cường thám báo, biệt kích, máy bay trinh sát thường xuyên lượn lờ trên vùng Việt Bắc, nhiệm vụ của các chiến sĩ cảnh vệ càng trở nên cấp bách và hiểm nguy. Họ canh gác ngày đêm giữa núi rừng, luôn cảnh giác cao độ, sẵn sàng chiến đấu để bảo vệ từng bước đi, từng giờ làm việc, từng giấc ngủ của Bác.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:14.98px;padding-right:14.98px;font-size:0.9375vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffffff;font-size:0.94vw;font-family:'Maitree';text-indent:14.98px;">Không chỉ là người bảo vệ, họ còn là người phục vụ, liên lạc viên, hậu cần, người bạn thân thiết trong đời sống thường nhật của Bác. Họ sống cùng Người trong điều kiện gian khổ, ăn rau rừng, uống nước suối, ngủ lán tranh tre vách nứa, nhưng luôn giữ vững tinh thần thép, lòng trung thành tuyệt đối với lãnh tụ và với cách mạng.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:14.98px;padding-right:14.98px;font-size:0.9375vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffffff;font-size:0.94vw;font-family:'Maitree';text-indent:14.98px;">Những chiến sĩ cảnh vệ tại Khau Tý đã góp phần âm thầm nhưng to lớn trong việc bảo đảm an toàn cho Bác Hồ – đảm bảo cho ngọn đuốc cách mạng được tiếp tục tỏa sáng trong rừng sâu Việt Bắc, giữa những ngày tháng quyết định vận mệnh đất nước.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:14.98px;padding-right:14.98px;font-size:0.9375vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffffff;font-size:0.94vw;font-family:'Maitree';text-indent:14.98px;">Ngày nay, di tích Khau Tý đã được xếp hạng là di tích lịch sử quốc gia, là nơi giáo dục truyền thống cách mạng, là minh chứng sống động cho tầm vóc vĩ đại của Chủ tịch Hồ Chí Minh và sự hy sinh thầm lặng, cao cả của lực lượng Cảnh vệ – những “lá chắn sống” trung thành và kiên cường.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.94vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.75vw;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;text-indent:14.98px;padding-right:14.98px;font-size:0.9375vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffffff;font-size:0.94vw;font-family:'Maitree';text-indent:14.98px;">Khi chúng ta đứng tại nơi này, giữa không gian rừng núi tĩnh lặng, xin hãy dành một chút lắng đọng để tưởng nhớ về một thời kỳ đầy gian lao nhưng oanh liệt, và để biết ơn những người đã âm thầm gìn giữ hòa bình cho cả một dân tộc – từ lãnh tụ tối cao cho đến người lính cảnh vệ thầm lặng</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.94vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.75vw;font-family:'Arial, Helvetica, sans-serif';"/></p><p STYLE="margin:0; line-height:0.94vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.75vw;font-family:'Arial, Helvetica, sans-serif';"/></p></div>
+HTMLText_45FE9604_5A08_16EF_41D2_747897FB4A21_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;text-indent:14.98px;padding-right:14.98px;font-size:2.500000000000001vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffffff;font-size:2.5vw;font-family:'Maitree';text-indent:14.98px;">Giữa núi rừng Việt Bắc, mảnh đất Định Hóa – Thái Nguyên đã trở thành An toàn khu của cách mạng Việt Nam trong những năm tháng kháng chiến chống thực dân Pháp. Trong hệ thống các di tích lịch sử tại đây, Khau Tý là một địa danh đặc biệt, ghi dấu ngày Bác Hồ chính thức trở lại Việt Bắc chỉ đạo toàn dân kháng chiến.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:14.98px;padding-right:14.98px;font-size:2.500000000000001vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffffff;font-size:2.5vw;font-family:'Maitree';text-indent:14.98px;">Ngày 20 tháng 5 năm 1947, sau hành trình vượt qua muôn vàn hiểm nguy từ Hà Nội, Chủ tịch Hồ Chí Minh đã về tới đồi Khau Tý, xã Điềm Mặc, mở đầu cho giai đoạn lãnh đạo trực tiếp cuộc kháng chiến chống Pháp từ căn cứ địa. Đây là nơi ở và làm việc đầu tiên của Người tại ATK Định Hóa, đánh dấu bước ngoặt lớn của cách mạng Việt Nam trong thời kỳ kháng chiến trường kỳ.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:14.98px;padding-right:14.98px;font-size:2.500000000000001vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffffff;font-size:2.5vw;font-family:'Maitree';text-indent:14.98px;">Tại căn lán nhỏ đơn sơ trên đồi Khau Tý, Bác Hồ đã làm việc không ngừng nghỉ: viết thư, ra chỉ thị, hiệu triệu toàn dân, xây dựng khối đại đoàn kết, cùng Trung ương Đảng hoạch định những chiến lược lớn cho toàn quốc kháng chiến. Mặc dù ở giữa rừng sâu núi thẳm, không điện, không đường, không phương tiện liên lạc hiện đại, nhưng nơi đây chính là trung tâm chỉ đạo cách mạng, là "bộ não" của cả dân tộc trong thời điểm cam go nhất.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:14.98px;padding-right:14.98px;font-size:2.500000000000001vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffffff;font-size:2.5vw;font-family:'Maitree';text-indent:14.98px;">Gắn liền với những tháng ngày tại Khau Tý là hình ảnh âm thầm nhưng không thể thiếu của lực lượng Cảnh vệ – những người lính đặc biệt được giao nhiệm vụ bảo vệ tuyệt đối an toàn cho Bác Hồ và các cơ quan lãnh đạo đầu não.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:14.98px;padding-right:14.98px;font-size:2.500000000000001vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffffff;font-size:2.5vw;font-family:'Maitree';text-indent:14.98px;">Trong bối cảnh chiến tranh khốc liệt, địch tăng cường thám báo, biệt kích, máy bay trinh sát thường xuyên lượn lờ trên vùng Việt Bắc, nhiệm vụ của các chiến sĩ cảnh vệ càng trở nên cấp bách và hiểm nguy. Họ canh gác ngày đêm giữa núi rừng, luôn cảnh giác cao độ, sẵn sàng chiến đấu để bảo vệ từng bước đi, từng giờ làm việc, từng giấc ngủ của Bác.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:14.98px;padding-right:14.98px;font-size:2.500000000000001vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffffff;font-size:2.5vw;font-family:'Maitree';text-indent:14.98px;">Không chỉ là người bảo vệ, họ còn là người phục vụ, liên lạc viên, hậu cần, người bạn thân thiết trong đời sống thường nhật của Bác. Họ sống cùng Người trong điều kiện gian khổ, ăn rau rừng, uống nước suối, ngủ lán tranh tre vách nứa, nhưng luôn giữ vững tinh thần thép, lòng trung thành tuyệt đối với lãnh tụ và với cách mạng.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:14.98px;padding-right:14.98px;font-size:2.500000000000001vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffffff;font-size:2.5vw;font-family:'Maitree';text-indent:14.98px;">Những chiến sĩ cảnh vệ tại Khau Tý đã góp phần âm thầm nhưng to lớn trong việc bảo đảm an toàn cho Bác Hồ – đảm bảo cho ngọn đuốc cách mạng được tiếp tục tỏa sáng trong rừng sâu Việt Bắc, giữa những ngày tháng quyết định vận mệnh đất nước.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:14.98px;padding-right:14.98px;font-size:2.500000000000001vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffffff;font-size:2.5vw;font-family:'Maitree';text-indent:14.98px;">Ngày nay, di tích Khau Tý đã được xếp hạng là di tích lịch sử quốc gia, là nơi giáo dục truyền thống cách mạng, là minh chứng sống động cho tầm vóc vĩ đại của Chủ tịch Hồ Chí Minh và sự hy sinh thầm lặng, cao cả của lực lượng Cảnh vệ – những “lá chắn sống” trung thành và kiên cường.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.5vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.75vw;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;text-indent:14.98px;padding-right:14.98px;font-size:2.500000000000001vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';text-indent:14.98px;"><SPAN STYLE="color:#ffffff;font-size:2.5vw;font-family:'Maitree';text-indent:14.98px;">Khi chúng ta đứng tại nơi này, giữa không gian rừng núi tĩnh lặng, xin hãy dành một chút lắng đọng để tưởng nhớ về một thời kỳ đầy gian lao nhưng oanh liệt, và để biết ơn những người đã âm thầm gìn giữ hòa bình cho cả một dân tộc – từ lãnh tụ tối cao cho đến người lính cảnh vệ thầm lặng</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.5vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.75vw;font-family:'Arial, Helvetica, sans-serif';"/></p><p STYLE="margin:0; line-height:2.5vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.75vw;font-family:'Arial, Helvetica, sans-serif';"/></p></div>
+
+### Tooltip
+IconButton_718F84AE_5CCF_D847_41D2_1CC1F1A9E63D.toolTip = Danh Sách Panorama
+IconButton_718F84AE_5CCF_D847_41D2_1CC1F1A9E63D_mobile.toolTip = Danh Sách Panorama
+IconButton_72CA80AA_5CCE_B84F_41C3_B71681FB0359_mobile.toolTip = Giới Thiệu Chung
+IconButton_72CA80AA_5CCE_B84F_41C3_B71681FB0359.toolTip = Giới Thiệu Chung
+IconButton_ED448790_FA7A_FD6C_41B7_8A10519DFACF.toolTip = Hiện vật 
+IconButton_ED448790_FA7A_FD6C_41B7_8A10519DFACF_mobile.toolTip = Hiện vật 
+Image_C0F4A6F7_FE6D_E7CD_41E7_A016ADA32B25_mobile.toolTip = Hướng dẫn tham quan
+Image_C0F4A6F7_FE6D_E7CD_41E7_A016ADA32B25.toolTip = Hướng dẫn tham quan
+IconButton_4080B7C8_5F28_6F54_41CB_A5BCF29ECAE5_mobile.toolTip = Setting
+IconButton_4080B7C8_5F28_6F54_41CB_A5BCF29ECAE5.toolTip = Setting
+IconButton_14E1E609_325F_2CAE_41C8_EEAF7483130F.toolTip = Sơ đồ 
+IconButton_14E1E609_325F_2CAE_41C8_EEAF7483130F_mobile.toolTip = Sơ đồ 
+IconButton_71D5E7A2_5CCE_D87E_41AE_02C0002FCC6A_mobile.toolTip = Thư Viện Ảnh
+IconButton_71D5E7A2_5CCE_D87E_41AE_02C0002FCC6A.toolTip = Thư Viện Ảnh
+IconButton_408157C9_5F28_6F54_41B1_EBE1E785FA6A.toolTip = Toàn màn hình
+IconButton_408157C9_5F28_6F54_41B1_EBE1E785FA6A_mobile.toolTip = Toàn màn hình
+IconButton_C160D620_FEAF_2642_41E9_567FAE37C3C3_mobile.toolTip = Tắt Hướng dẫn 
+IconButton_C160D620_FEAF_2642_41E9_567FAE37C3C3.toolTip = Tắt Hướng dẫn 
+IconButton_032BFD8A_1826_FF0A_41B5_712F32A5B383.toolTip = Vị Trí
+IconButton_032BFD8A_1826_FF0A_41B5_712F32A5B383_mobile.toolTip = Vị Trí
+IconButton_716ACB84_5CCD_A83B_41D3_4FD704EC9E36.toolTip = Âm thanh
+IconButton_716ACB84_5CCD_A83B_41D3_4FD704EC9E36_mobile.toolTip = Âm thanh
+
+## Tour
+
+### Description
+
+### Title
+tour.name = KHAU TÝ 
